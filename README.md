@@ -1,6 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+## I'm a second year computer science student at the University of Ottawa
 
-[![Elias' GitHub stats](https://github-readme-stats.vercel.app/api?username=mtelias&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+**My interests are:**
+- **AI 🤖**
+- **Cloud Technology ☁️**
+- **Fintech 💰**
+
+### Find me on [LinkedIn](https://www.linkedin.com/in/eliasfatine/)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mtelias&theme=transparent&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
