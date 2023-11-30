@@ -3,6 +3,7 @@
 
 **My interests are:**
 - **AI 🤖**
+- **Software Development 👨‍💻**
 - **Cloud Technology ☁️**
 - **Fintech 💰**
 
