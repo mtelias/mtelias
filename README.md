@@ -9,7 +9,7 @@
 
 ### Find me on [LinkedIn](https://www.linkedin.com/in/eliasfatine/)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mtelias&theme=transparent&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=efatine&theme=transparent&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
