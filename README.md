@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm a second year computer science student at the University of Ottawa
+## I'm a third year computer science student at the University of Ottawa
 
 **My interests are:**
 - **AI 🤖**
